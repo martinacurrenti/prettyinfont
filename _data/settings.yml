@@ -5,7 +5,8 @@ footer_text: Copyright 2020 Martina Currenti
 header_feature_image: ../uploads/pages.jpg
 bannerheight: 20vmax
 logo: ../uploads/2.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/3.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items: []
