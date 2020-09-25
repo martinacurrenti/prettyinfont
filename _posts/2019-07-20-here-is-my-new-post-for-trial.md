@@ -6,22 +6,22 @@ header_feature_image: ../uploads/screenshot-2020-09-25-at-12.20.59.png
 caption: ""
 comments: true
 ---
-<!--\\[if !mso]>
+<!--\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -674,46 +674,19 @@ Thirty-four years after its release, **Pretty in Pink** is listed as one of the 
 
 Let’s start with the font’s ID. You may recognise it as the “**meme font**”, since **Impact** has been one of the most used typefaces for the creation of meme content for the Internet; nevertheless, Impact has been around since 1965, when it was created by Geoffrey Lee for the English engineering company *Stephenson Blake*.
 
-<!--\\[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1029" type="#_x0000_t75"
- alt="A person standing in front of a window&#10;&#10;Description automatically generated"
- style='width:117pt;height:117pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg"
-  o:title="A person standing in front of a window&#10;&#10;Description automatically generated"/>
-</v:shape><!\\[endif]--><!--\\[if !vml]-->![A person standing in front of a window
-
 ![](../uploads/makes-meme-dosent-use-impact-font.jpg)
 
 As the name suggests, Impact was designed as a grotesque font meant to make “**an impact**” on the observer with its strong features like the high x-height, the lack of serifs, and the unique ampersand, which is as tall as the corpus size.
 
-![](../uploads/impact_font_sample_png.png)
 
-<!--\\[endif]-->
+
+<!--\\\[endif]-->
 
 However, this was not enough for the creators of Pretty in Pink, who wanted to make it even **more remarkable**: thus, they used the condensed version of Impact – in bold, with a black background. Completely ground-breaking.
 
 ![](../uploads/pretty-in-pink.jpg "Pretty in Pink (1984)'s movie poster")
 
-<!--\\[endif]-->
+<!--\\\[endif]-->
 
 With the white words (“Pretty in”) and the black background, the title is coordinated with the black and white filter used for the background picture. On the other hand, the word “pink” is the only coloured feature along with the protagonist’s t-shirt; their alignment creates a **visual effect** that makes them both **stand out** at the same time, therefore fusing them into the first element the observers’ eyes are drawn to.
 
@@ -725,7 +698,7 @@ However, Pretty in Pink uses a much bolder pink (#FE5EB6), with the nearest shad
 
 ![](../uploads/2.jpg "Hot pink")
 
-<!--\\[endif]-->
+<!--\\\[endif]-->
 
 Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other shade of pink, and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and femininity.
 
