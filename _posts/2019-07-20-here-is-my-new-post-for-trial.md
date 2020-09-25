@@ -2,7 +2,7 @@
 layout: post
 title: I. Pretty in Pink
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/screenshot-2020-09-25-at-12.18.20.png
+header_feature_image: ../uploads/screenshot-2020-09-25-at-12.20.59.png
 caption: Cobbles
 comments: true
 ---
