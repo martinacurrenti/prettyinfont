@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Font Analysis: Pretty in Pink"
+title: "#1 Font Analysis"
 date: 2020-09-25T10:26:13.026Z
 header_feature_image: ../uploads/screenshot-2020-09-25-at-12.20.59.png
 caption: ""
