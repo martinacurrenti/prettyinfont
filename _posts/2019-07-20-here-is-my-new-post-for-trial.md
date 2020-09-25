@@ -1,9 +1,9 @@
 ---
 layout: post
-title: I. Pretty in Pink
-date: 2020-06-24 17:50
+title: "First Font Analysis: Pretty in Pink (directed by Howard Deutch, 1986)"
+date: 2020-09-25T10:26:13.026Z
 header_feature_image: ../uploads/screenshot-2020-09-25-at-12.20.59.png
-caption: Cobbles
+caption: ""
 comments: true
 ---
 <!--\\\[if gte mso 9]><xml>
