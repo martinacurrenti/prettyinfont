@@ -6,22 +6,22 @@ header_feature_image: ../uploads/screenshot-2020-09-25-at-12.20.59.png
 caption: ""
 comments: true
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -674,7 +674,7 @@ Thirty-four years after its release, **Pretty in Pink** is listed as one of the 
 
 Let’s start with the font’s ID. You may recognise it as the “**meme font**”, since **Impact** has been one of the most used typefaces for the creation of meme content for the Internet; nevertheless, Impact has been around since 1965, when it was created by Geoffrey Lee for the English engineering company *Stephenson Blake*.
 
-<!--\[if gte vml 1]><v:shapetype
+<!--\\[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -699,31 +699,21 @@ Let’s start with the font’s ID. You may recognise it as the “**meme font**
  style='width:117pt;height:117pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg"
   o:title="A person standing in front of a window&#10;&#10;Description automatically generated"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![A person standing in front of a window
+</v:shape><!\\[endif]--><!--\\[if !vml]-->![A person standing in front of a window
 
-Description automatically generated](file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg)<!--\[endif]-->
+![](../uploads/makes-meme-dosent-use-impact-font.jpg)
 
 As the name suggests, Impact was designed as a grotesque font meant to make “**an impact**” on the observer with its strong features like the high x-height, the lack of serifs, and the unique ampersand, which is as tall as the corpus size.
 
-<!--\[if gte vml 1]><v:shape
- id="Picture_x0020_6" o:spid="_x0000_i1028" type="#_x0000_t75" alt="A picture containing text, newspaper&#10;&#10;Description automatically generated"
- style='width:96pt;height:129pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png"
-  o:title="A picture containing text, newspaper&#10;&#10;Description automatically generated"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![A picture containing text, newspaper
+![](../uploads/impact_font_sample_png.png)
 
-Description automatically generated](file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)<!--\[endif]-->
+<!--\\[endif]-->
 
 However, this was not enough for the creators of Pretty in Pink, who wanted to make it even **more remarkable**: thus, they used the condensed version of Impact – in bold, with a black background. Completely ground-breaking.
 
-<!--\[if gte vml 1]><v:shape
- id="Picture_x0020_3" o:spid="_x0000_i1027" type="#_x0000_t75" alt="A group of people posing for a photo&#10;&#10;Description automatically generated"
- style='width:156pt;height:222pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg"
-  o:title="A group of people posing for a photo&#10;&#10;Description automatically generated"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![A group of people posing for a photo
+![](../uploads/pretty-in-pink.jpg "Pretty in Pink (1984)'s movie poster")
 
-Description automatically generated](file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg)<!--\[endif]-->
+<!--\\[endif]-->
 
 With the white words (“Pretty in”) and the black background, the title is coordinated with the black and white filter used for the background picture. On the other hand, the word “pink” is the only coloured feature along with the protagonist’s t-shirt; their alignment creates a **visual effect** that makes them both **stand out** at the same time, therefore fusing them into the first element the observers’ eyes are drawn to.
 
@@ -731,21 +721,11 @@ Pink is the colour associated with **women**, as it is historically considered t
 
 However, Pretty in Pink uses a much bolder pink (#FE5EB6), with the nearest shade being **hot pink** (#FF69B4).
 
-<!--\[if gte vml 1]><v:shape
- id="Picture_x0020_4" o:spid="_x0000_i1026" type="#_x0000_t75" alt="Shape&#10;&#10;Description automatically generated"
- style='width:93pt;height:93pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg"
-  o:title="Shape&#10;&#10;Description automatically generated"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Shape
+![](../uploads/1.jpg "The title's shade")
 
-Description automatically generated](file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)<!--\[endif]--><!--\[if gte vml 1]><v:shape
- id="Picture_x0020_5" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Shape, square&#10;&#10;Description automatically generated"
- style='width:92pt;height:92pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.jpg"
-  o:title="Shape, square&#10;&#10;Description automatically generated"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Shape, square
+![](../uploads/2.jpg "Hot pink")
 
-Description automatically generated](file:////Users/martina/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.jpg)<!--\[endif]-->
+<!--\\[endif]-->
 
 Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other shade of pink, and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and femininity.
 
