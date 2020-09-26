@@ -2,26 +2,26 @@
 layout: post
 title: Iconic... but make it pinker!
 date: 2020-09-25T10:26:13.026Z
-header_feature_image: ../uploads/screenshot-2020-09-25-at-12.20.59.png
+header_feature_image: ../uploads/findthearticle.png
 caption: ""
 comments: true
 ---
-<!--\\\[if !mso]>
+<!--\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -678,15 +678,13 @@ Let’s start with the font’s ID. You may recognise it as the “**meme font**
 
 As the name suggests, Impact was designed as a grotesque font meant to make “**an impact**” on the observer with its strong features like the high x-height, the lack of serifs, and the unique ampersand, which is as tall as the corpus size.
 
-
-
-<!--\\\[endif]-->
+<!--\\\\[endif]-->
 
 However, this was not enough for the creators of Pretty in Pink, who wanted to make it even **more remarkable**: thus, they used the condensed version of Impact – in bold, with a black background. Completely ground-breaking.
 
 ![](../uploads/pretty-in-pink.jpg "Pretty in Pink (1984)'s movie poster")
 
-<!--\\\[endif]-->
+<!--\\\\[endif]-->
 
 With the white words (“Pretty in”) and the black background, the title is coordinated with the black and white filter used for the background picture. On the other hand, the word “pink” is the only coloured feature along with the protagonist’s t-shirt; their alignment creates a **visual effect** that makes them both **stand out** at the same time, therefore fusing them into the first element the observers’ eyes are drawn to.
 
@@ -696,9 +694,9 @@ However, Pretty in Pink uses a much bolder pink (#FE5EB6), with the nearest shad
 
 ![](../uploads/1.jpg "The title's shade")
 
-![](../uploads/2.jpg "Hot pink")
+![Hot pink](../uploads/2.jpg)
 
-<!--\\\[endif]-->
+<!--\\\\[endif]-->
 
 Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other shade of pink, and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and femininity.
 
