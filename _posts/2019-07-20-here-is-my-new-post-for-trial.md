@@ -5,6 +5,12 @@ date: 2020-09-25T10:26:13.026Z
 header_feature_image: ""
 caption: Pretty in Pink (1986), directed by H. Deutch
 comments: true
+tags:
+  - Cinema
+  - Design
+  - Fonts
+  - Graphics
+  - Music
 ---
 Thirty-four years after its release, **Pretty in Pink** is listed as one of the greatest teen romantic comedies of all times. Everything about it – the plot, the costumes, the soundtrack and so on – still has a great influence on today’s cinema. But what made it this utterly iconic? What element made sure that Pretty in Pink could distinguish itself from the other movies when it first came out? The answer is pretty simple: it was the movie poster, of course – and the **title**.
 
