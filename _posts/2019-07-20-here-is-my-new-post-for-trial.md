@@ -11,7 +11,7 @@ Thirty-four years after its release, **Pretty in Pink** is listed as one of the 
 
 Let’s start with the font’s ID. You may recognise it as the “**meme font**”, since **Impact** has been one of the most used typefaces for the creation of meme content for the Internet; nevertheless, Impact has been around since 1965, when it was created by Geoffrey Lee for the English engineering company *Stephenson Blake*.
 
-![](../uploads/screenshot-2020-09-26-at-19.45.51.png)
+![](../uploads/progetto-senza-titolo-2-.png)
 
 As the name suggests, Impact was designed as a grotesque font meant to make “**an impact**” on the observer with its strong features like the high x-height, the lack of serifs, and the unique ampersand, which is as tall as the corpus size.
 
@@ -25,9 +25,7 @@ Pink is the colour associated with **women**, as it is historically considered t
 
 However, Pretty in Pink uses a much bolder pink (#FE5EB6), with the nearest shade being **hot pink** (#FF69B4).
 
-![](../uploads/cream-and-black-natural-makeup-beauty-logo.png "Notice the slight difference between the two shades?")
-
-
+![](../uploads/progetto-senza-titolo-1-.png "Notice the slight difference between the two shades?")
 
 Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other shade of pink, and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and femininity.
 
