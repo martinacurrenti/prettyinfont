@@ -27,6 +27,6 @@ However, Pretty in Pink uses a much bolder pink (#FE5EB6), with the nearest shad
 
 ![](../uploads/progetto-senza-titolo-1-.png "Notice the slight difference between the two shades?")
 
-Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other shade of pink, and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and femininity.
+Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other typical shade of pink used in romantic comedies and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and **femininity**.
 
 The choice of combining **Impact** with a shade of **hot pink**, and along with the distinctive bold, the distinctive black background and the sophisticated and narrowing effect of the condensed letters, certainly does not make this movie poster go unnoticed; on the contrary, it gives Pretty in Pink’s title the **perfect balance** and energy for winning the eyes (and consequently the harts) of the observers – and is therefore the key to its thirty-four years of **success**.
