@@ -25,9 +25,7 @@ Pink is the colour associated with **women**, as it is historically considered t
 
 However, Pretty in Pink uses a much bolder pink (#FE5EB6), with the nearest shade being **hot pink** (#FF69B4).
 
-![](../uploads/cream-and-black-natural-makeup-beauty-logo.png "Notice the slight difference between the two shades?")
-
-
+![](../uploads/progetto-senza-titolo-1-.png "Notice the slight difference between the two shades?")
 
 Thanks to the high amount of red in this colour, hot pink appears more **vivid** and **playful** than any other shade of pink, and is perfect for the irreverent movie it is being used for, as it is strongly associated with **sexuality** and femininity.
 
