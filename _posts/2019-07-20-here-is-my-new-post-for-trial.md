@@ -11,13 +11,13 @@ Thirty-four years after its release, **Pretty in Pink** is listed as one of the 
 
 Let’s start with the font’s ID. You may recognise it as the “**meme font**”, since **Impact** has been one of the most used typefaces for the creation of meme content for the Internet; nevertheless, Impact has been around since 1965, when it was created by Geoffrey Lee for the English engineering company *Stephenson Blake*.
 
-![](../uploads/progetto-senza-titolo-2-.png)
+![](../uploads/progetto-senza-titolo-2-.png "An example of the popular memes where Impact was used [credit: cheezburger.com]")
 
 As the name suggests, Impact was designed as a grotesque font meant to make “**an impact**” on the observer with its strong features like the high x-height, the lack of serifs, and the unique ampersand, which is as tall as the corpus size.
 
 However, this was not enough for the creators of Pretty in Pink, who wanted to make it even **more remarkable**: thus, they used the condensed version of Impact – in bold, with a black background. Completely ground-breaking.
 
-![](../uploads/pretty-in-pink.jpg "Pretty in Pink (1984)'s movie poster")
+![](../uploads/pretty-in-pink.jpg "Pretty in Pink (1984)'s movie poster [credit: imdb]")
 
 With the white words (“Pretty in”) and the black background, the title is coordinated with the black and white filter used for the background picture. On the other hand, the word “pink” is the only coloured feature along with the protagonist’s t-shirt; their alignment creates a **visual effect** that makes them both **stand out** at the same time, therefore fusing them into the first element the observers’ eyes are drawn to.
 
