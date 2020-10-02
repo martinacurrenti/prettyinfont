@@ -8,5 +8,5 @@ logo: ../uploads/newicons-4-.png
 favicon: ../uploads/progetto-senza-titolo-1-.png
 gridlayout: false
 fixednavbar: true
-upzoom: true
+upzoom: false
 items: []
