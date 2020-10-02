@@ -6,7 +6,7 @@ header_feature_image: ../uploads/the-fonts-that-made-you-fall-in-love-3-.png
 bannerheight: 10vmax
 logo: ../uploads/newicons-4-.png
 favicon: ../uploads/progetto-senza-titolo-1-.png
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
 items: []
