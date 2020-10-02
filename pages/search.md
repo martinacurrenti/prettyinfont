@@ -1,10 +1,10 @@
 ---
 layout: search
 permalink: /search/
-header_feature_image: ../uploads/what-are-you-looking-for-.png
+header_feature_image: ""
 feature-img: assets/img/pexels/search-map.jpeg
-title: Search
-subtitle: ""
+title: Hey
+subtitle: Is it me you're looking for?
 date: 2020-09-26T12:11:04.150Z
 icon: fa-search
 show: true
