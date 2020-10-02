@@ -12,7 +12,7 @@ Many people believe that there is nothing fuller of pathos than Shakespeare’s 
 
 Let's start with the taglines. They both are written in capital letters, and differ in colour and in language, since in the one above **Archaic English** was used to make it look like a real quote from Shakespeare.
 
-![](../uploads/a80578-1-.png)
+![](../uploads/efjefewfwe.png)
 
 It is written in capital letters, and uses Archaic English to make it look like a real quote from Shakespeare. The typeface chosen is a variation in small caps of **Niva** (**Niva Black**), a sans serif designed by Pedro Gonzàlez, founder of PeGGO, with the intention of fusing together **technical and aesthetical features** in order to create the perfect font for every use, from magazines to, like in this case, movie posters.
 
@@ -22,7 +22,7 @@ The title, on the other hand, is written in a memorable version of **Helvetica**
 
 This variation is called **Helvetica Exp. Black** and features even bolder letters, which make the title appear more impacted and way striking than the original. This effect has mostly one purpose, which is to make it look like a **scribble** from the protagonist’s notebook, where she indeed wrote down the infamous “10 things”. It is clearly noticeable from the **unevenness** of the letters, like the cut-out “i” and “h”, or the “t”’s **prolonged** dash. Along with the **arrow** coming out of the “u” and pointing directly at the poor subject of Kat’s mistaken – and then justified, I must add – hatred, these little scribbling elements are what makes our eyes linger on the movie’s title at first.
 
-![](../uploads/title.gif)
+![](../uploads/fnejfnejfne.png)
 
 The choice of colours is interesting, too. While “I hate you” is symbolically in black, the first two words are in a darker and purplish shade of magenta called **Lipstick** (#A80578), similar to **PANTONE 2415 C** (#9E007E).
 
