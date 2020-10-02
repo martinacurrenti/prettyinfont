@@ -8,7 +8,7 @@ comments: true
 ---
 Many people believe that there is nothing fuller of pathos than Shakespeare’s tragedies, and I like to think that they are the same people who have never seen an adaptation of his works set in modern times – in high schools, where the real tragedies happen. I can name a couple of “Shakespeare-approved” masterpieces; however, I believe that we can all agree on which is the superior adaptation – and that is undoubtedly **10 Things I Hate About You**, with a title that is engraved in our midsummer night's dreams.
 
-![10 Things I Hate About You (1999), directed by G. Junger](../uploads/dkjfekjc.jpg)
+![10 Things I Hate About You's movie poster [credit: IMDb]](../uploads/dkjfekjc.jpg)
 
 The tagline is one of the first elements our eyes are attracted to.
 
