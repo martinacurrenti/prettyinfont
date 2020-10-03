@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-header_feature_image: ""
+header_feature_image: ../uploads/ciao-1-.png
 published: true
 title: About me
 subtitle: ""
