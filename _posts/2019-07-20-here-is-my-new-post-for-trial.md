@@ -2,7 +2,7 @@
 layout: post
 title: Iconic... but make it pinker!
 date: 2020-09-25T10:26:13.026Z
-header_feature_image: ../uploads/ciao-3-.png
+header_feature_image: ../uploads/ciao-4-.png
 caption: Pretty in Pink (1986), directed by H. Deutch
 comments: true
 tags: null
