@@ -3,7 +3,7 @@ description: A blog about the most iconic romcoms and their titles' font
 header_text: ""
 footer_text: Copyright 2020 Martina Currenti
 header_feature_image: ../uploads/ciao-2-.png
-bannerheight: 50vmax
+bannerheight: 40vmax
 logo: ../uploads/1.png
 favicon: ../uploads/favicon.png
 gridlayout: false
