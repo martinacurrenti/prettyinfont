@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 header_feature_image: ""
 published: true
-title: About me
+title: About this blog
 subtitle: ""
 date: 2020-06-29T15:36:12.231Z
 tags: null
