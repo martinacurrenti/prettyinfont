@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The taming of the font
-date: 2020-09-24T11:49:00.000Z
+date: 2020-09-26T11:49:00.000Z
 header_feature_image: ../uploads/ciao-3-.png
 caption: 10 Things I Hate About You (1999), directed by G. Junger
 comments: true
