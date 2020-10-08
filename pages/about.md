@@ -28,8 +28,12 @@ I chose **Alegreya** for both the headings and the body text for the same exact 
 
 In this case, it is a serif (of course), but its family is composed of several versions that go from sans serif to small-caps – and even black 100. Therefore, with its elegant appearance due to the **hefty serifs** and the **dynamic curves** of the letters that seem to carry with themselves a global appreciation, Alegreya is perfect for the **graceful aesthetic** of this blog.
 
-The same graceful effect is given by the banners filled with **peonies**; considered by many cultures the most beautiful flower, it symbolises beauty, romance and prosperity, and also love at first sight when its petals are light pink. They appear even prettier thanks to the **filters** applied of them, which not only make the images' colours cooler and distant, but also make them resemble a **painting**.
+The same graceful effect is given by the banners filled with **peonies**; considered by many cultures the most beautiful flower, it symbolises beauty, romance and prosperity, and also love at first sight when its petals are light pink. They appear even prettier thanks to the **filters** applied on them, which not only make the images' colours cooler and distant, but also make them resemble a **painting**.
 
-For the logo, I chose to incorporate peonies, too.
+For the logo, I chose that
 
 With Pretty in Font, my hopes are to share my love for rom-coms and eliminate the stigma attached to them being “chick movies”, so that my readers can discover a new passion and appreciate them at least a small amount of how much I love them. In order to do so, I have decided to analyse their titles, since they are just like **business card**: they are vital for understanding the people (or the movie, in this case) behind them, and they summarise their **values** in a symbolic and implicit way, through the choices of fonts and imagery and colours.
+
+
+
+Disclaimer: the pictures and the illustrations used in this blog, unless otherwise credited, are implicitly and originally downloaded from Canva; however, I have modified them and created new images which are 100% the fruits of my creativity - plus the countless amount of hours spent working on them on different softwares.
