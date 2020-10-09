@@ -30,10 +30,14 @@ In this case, it is a serif (of course), but its family is composed of several v
 
 The same graceful effect is given by the banners filled with **peonies**; considered by many cultures the most beautiful flower, it symbolises beauty, romance and prosperity, and also love at first sight when its petals are light pink. They appear even prettier thanks to the **filters** applied on them, which not only make the images' colours cooler and distant, but also make them resemble a **painting**.
 
-For the logo, I chose that
+![](../uploads/ciao-4-.png)
+
+For the **logo**, I chose something that many of us buy before entering the cinema's room, and that most of the times does not last till the end of the advertising. Many like them salty, some like them sweet; but either way, popcorns are a classic and popular element of the **cinematic culture**, one of the elements that we associate with movies in the same way as pink comes to our mind whenever we think about romantic comedies. Therefore, I fused together the two elements (popcorns+pink) and transformed popcorns into something closer to my topic, using shades of pink for the box, with a light pink "p" (#FFC0F0) rigorously in **Alegreya**. The **black lines** around it are used for contrast, to make it stand out next to the blog's title, and are a bit irregular to resemble the effect of someone's drawing.
+
+![](../uploads/jfeef.png)
+
+In the same way, my **favicon** is a camera, another popular and classic symbol of the cinematic culture; it is white on pink (#FF48A8), the same **effect** used for many rom coms' titles – a transition from white to pink, in order to symbolise the act of **self-consciousness** of the movies' protagonists, from naivety (white) to full confidence (hot pink).
 
 With Pretty in Font, my hopes are to share my love for rom-coms and eliminate the stigma attached to them being “chick movies”, so that my readers can discover a new passion and appreciate them at least a small amount of how much I love them. In order to do so, I have decided to analyse their titles, since they are just like **business card**: they are vital for understanding the people (or the movie, in this case) behind them, and they summarise their **values** in a symbolic and implicit way, through the choices of fonts and imagery and colours.
 
-
-
-Disclaimer: the pictures and the illustrations used in this blog, unless otherwise credited, are implicitly and originally downloaded from Canva; however, I have modified them and created new images which are 100% the fruits of my creativity - plus the countless amount of hours spent working on them on different softwares.
+[*Disclaimer: the pictures and the illustrations used in this blog, unless otherwise credited, are implicitly and originally downloaded from Canva; however, I have modified them and created new images which are 100% the fruits of my creativity - plus the countless amount of hours spent working on them on different softwares*.]
