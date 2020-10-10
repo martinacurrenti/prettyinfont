@@ -20,7 +20,7 @@ You’ll notice that most of these movies utilise classic fonts, simple imagery,
 
 I love pink, thus deciding which shades to use for the logo and the favicon was definitely my favourite part of this whole project. Although I use some other colours and shades for contrast in some banners from time to time, depending on what I feel would suit better the movie in question, I do have some predefined shades:
 
-![](../uploads/colori.png)
+![](../uploads/final-colours.png)
 
 I chose **Alegreya** for both the headings and the body text for the same exact reason. Designed by Juan Pablo del Peral for Huerta Tipográfica, this typeface is relatively **recent** yet seems classic enough to pass as a coetaneous of Times New Roman or Palatino Linotype, being used mostly in literature.
 
