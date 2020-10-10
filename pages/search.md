@@ -1,7 +1,7 @@
 ---
 layout: search
 permalink: /search/
-header_feature_image: ../uploads/look.png
+header_feature_image: ../uploads/carina-dai.png
 feature-img: assets/img/pexels/search-map.jpeg
 title: What are you looking for?
 subtitle: ""
