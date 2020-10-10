@@ -1,6 +1,7 @@
 ---
 layout: search
 permalink: /search/
+header_feature_image: ../uploads/look.png
 feature-img: assets/img/pexels/search-map.jpeg
 title: Search
 subtitle: What are you looking for?
