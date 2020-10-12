@@ -6,7 +6,7 @@ header_feature_image: ../uploads/wedd.png
 caption: Bride Wars (2009), directed by G. Winick
 comments: true
 ---
-There is just one thing that can come between two people who have grew up together, whose bond is as long lasting as the old Nintendo DS that lays forgotten in one of your desk's drawers – and that is a wedding in June at *the* Plaza. Pretty specific, don't you think? Except for the fact that it really did happen, in fiction of course, to the two protagonists of one of the most famous romantic comedies about weddings: **Bride Wars**.
+There is just one thing that can come between two people who grew up together, whose bond is as long lasting as the old Nintendo DS that lays forgotten in one of your desk's drawers – and that is a wedding in June at *the* Plaza. Pretty specific, don't you think? Except for the fact that it really did happen, in fiction of course, to the two protagonists of one of the most famous romantic comedies about weddings: **Bride Wars**.
 
 ![This movie's poster [credit: IMDb]](../uploads/mv5bmtuyntg2otuwn15bml5banbnxkftztgwnzezmzg5mti-._v1_uy1200_cr90-0-630-1200_al_.jpg)
 
@@ -24,12 +24,12 @@ There is a reason why the poster juxtaposes Geographica Script and Futura PT; in
 
 The poster’s **tagline** is positioned exactly between the two characters, in a way to attract the observer’s eyes. The typeface used for it is **Arial**, a sans-serif designed in 1982 by Robin Nicholas and Patricia Saunders for Monotype Typography.
 
-![](../uploads/title.png)
+![](../uploads/titolo.png)
 
-Regarding the movie’s **title**, the effect is the same as the actresses’ credits: the word “**bride**” is written in an elegant and undefined mixture of fonts, built this way in order to emulate **handwriting**; the word “**wars**”, on the other end, is written in an extra black variation of **Futura**.
+Regarding the movie’s **title**, the effect is the same as the actresses’ credits: the word “**bride**” is written in an elegant and undefined mixture of fonts, built this way in order to emulate **handwriting**; the word “**wars**”, on the other hand, is written in an extra black variation of **Futura**.
 
 "War" (coordinated with the actresses’ surnames) is also a **moderate red** (#B43232), a colour known for representing **strong**, extreme and contrasting feelings. It can symbolise **danger**, assertion and survival. The choice of colour of this word is deeply influenced by the plot.
 
 ![](../uploads/red.png)
 
-In fact, although the protagonists have completely **opposite personalities**, they grew up together and share the same dream of getting married in June at the Plaza. However, due to an error made by the wedding planner, they accidentally book their weddings for the same day – and despite they both want the other's presence that day, neither of them is willing to give in, so the two brides end up fighting and are willing to do anything in order to **sabotage** each other’s wedding, from sneaking into the hairdresser's storage in order to switch the hair dye from platinum to blue, to public humiliation.
+In fact, although the protagonists have completely **opposite personalities**, they grew up together and share the same dream of getting married in June at the Plaza. However, due to an error made by the wedding planner, they accidentally book their weddings for the same day – and even though they both want the other's presence that day, neither of them is willing to give in, so the two brides end up fighting and are willing to do anything in order to **sabotage** each other’s wedding, from sneaking into the hairdresser's storage in order to switch the hair dye from platinum to blue, to public humiliation.
