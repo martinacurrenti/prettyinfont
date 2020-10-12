@@ -32,7 +32,11 @@ The same graceful effect is given by the banners filled with **peonies**; consid
 
 ![](../uploads/ciao-4-.png)
 
-For the **logo**, I chose something that many of us buy before entering the cinema's room, and that most of the times does not last till the end of the advertising. Many like them salty, some like them sweet; but either way, popcorns are a classic and popular element of the **cinematic culture**, one of the elements that we associate with movies in the same way as pink comes to our mind whenever we think about romantic comedies. Therefore, I fused together the two elements (popcorns+pink) and transformed popcorns into something closer to my topic, using shades of pink for the box, with a light pink "p" (#FFC0F0) rigorously in **Alegreya**. The **black lines** around it are used for contrast, to make it stand out next to the blog's title, and are a bit irregular to resemble the effect of someone's drawing.
+For the **logo**, I chose something that many of us buy before entering the cinema's room, and that most of the times does not last till the end of the advertising. Many like them salty, some like them sweet; but either way, popcorns are a classic and popular element of the **cinematic culture**, one of the elements that we associate with movies in the same way as pink comes to our mind whenever we think about romantic comedies.
+
+The other reason why I decided to use popcorns is personal. One time, at the age of 9, I went to the cinema to watch Breaking Dawn part 2. During a certain scene that we all know and gasped at, I was so shocked by what had happened that I choked on a popcorn and almost died on the spot. Kinda dramatic, I know, and I am still ashamed of it, but I guess that what doesnt kill you really makes you stronger – and gives you a good idea for your university's assignment almost a decade later. 
+
+Therefore, I fused together the two elements (my dislike for popcorns + my beloved pink) and transformed popcorns into something closer to my topic, using shades of pink for the box, with a light pink "p" (#FFC0F0) rigorously in **Alegreya**. The **black lines** around it are used for contrast, to make it stand out next to the blog's title, and are a bit irregular to resemble the effect of someone's drawing.
 
 ![](../uploads/jfeef.png)
 
@@ -40,4 +44,8 @@ In the same way, my **favicon** is a camera, another popular and classic symbol 
 
 With Pretty in Font, my hopes are to share my love for rom-coms and eliminate the stigma attached to them being “chick movies”, so that my readers can discover a new passion and appreciate them at least a small amount of how much I love them. In order to do so, I have decided to analyse their titles, since they are just like **business card**: they are vital for understanding the people (or the movie, in this case) behind them, and they summarise their **values** in a symbolic and implicit way, through the choices of fonts and imagery and colours.
 
-[*Disclaimer: the pictures and the illustrations used in this blog, unless otherwise credited, are implicitly and originally downloaded from Canva; however, I have modified them and created new images which are 100% the fruits of my creativity - plus the countless amount of hours spent working on them on different softwares*.]
+**Two small notes:** 
+
+1. The pictures and the illustrations used in this blog, unless otherwise credited, are implicitly and originally downloaded from Canva; however, I have modified them and created new images which are 100% the fruits of my creativity - plus the countless amount of hours spent working on them on different softwares;
+
+2. The information I give in each article mostly come from either my knowledge/mind or this lovely [page](https://www.corbencolourtheory.com/meanings-and-interpretations.html) – or Wikipedia itself. Moreover, I used both [Font squirrel](https://www.fontsquirrel.com/matcherator) and [What the font ](https://www.myfonts.com/WhatTheFont)in order to find out which fonts were used in the movie posters.
