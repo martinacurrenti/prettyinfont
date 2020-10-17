@@ -6,8 +6,6 @@ header_feature_image: ../uploads/alisa-anton-ff0hoix3pzu-unsplash.jpg
 caption: 13 going on 30 (2004), directed by G. Winick
 comments: true
 ---
-\[credit: Alison Aton on Unsplash]
-
 Like most people, when I was a teenager, I wished that time passed in the blink of an eye, because I thought that adulthood would have solved all of my problems. Thankfully, the universe decided to spare me from any further source of drama, and taught me instead a life like it always does, through cinematic influence. In this case, it was **13 going on 30**, a movie that will always have a place in my heart. I’ll explain why via its title’s analysis.
 
 ![[credit: azn.newsonnetflix.com]](../uploads/050ac1501798ffdf29f37ec1bf6a7edb.jpg)
@@ -29,3 +27,7 @@ By succeeding these opposite **colours**, along with two typefaces that have not
 The purple, however, is the **evolution** of her character throughout the story. She is a thirteen years old girl in the body of a thirty years old woman; she does not fully understand most of what surrenders her, she is too young and naïve – and she ends up extremely disappointed as she realises the horrible person she will become in the future. Nevertheless, she shows a great maturity for such a young girl, going through an admirable **self-growth journey** while she tries to make it up to the people her older-self hurt.
 
 At the end of the story, Jenna is still thirteen years old, that is true, but she has also become more mature and wiser, and this change is represented by the **purple**.
+
+
+
+\[credit for the image used for the banner to Alison Aton on Unsplash]
