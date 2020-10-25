@@ -2,6 +2,7 @@
 layout: post
 title: Crazy rich colour
 date: 2020-10-25T17:03:08.312Z
+header_feature_image: ../uploads/gayatri-malhotra-dtnv5kbueyw-unsplash.jpg
 caption: Crazy rich Asians (2018), directed by J. M. Chu
 comments: true
 ---
@@ -22,3 +23,7 @@ In the intensification of this effect to the observer's eyes, there are two elem
 The colour shares their purpose in a more explicit way. Had it been a richer gold, it would have appeared tackish and pretentious to any observer; however, it is a really pale shade of **gold** (#ECCC75), similar to sand, with a nice **holographic** effect on the letters. 
 
 Thanks to the choice of colour, the title reminds of a gold ingot shining, and fulfils its ambition to present a product that was made to **amaze** the eyes, to give the feeling of having in front of them something rich, expensive, that is given exactly to them by watching the movie. However, the effect is a **fake**, just like the rich people depicted in the movies, who are too blinded by the gold to realise that it has corrupted them and has destroyed their moral compass.
+
+
+
+\[Credit of the banner's image to Gayatri Malhotra on Unsplash]
