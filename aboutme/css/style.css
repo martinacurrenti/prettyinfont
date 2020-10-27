@@ -43,7 +43,7 @@ font-weight: 90;
 padding-top: 0px;
 padding-left: 20px;
 padding-right: 20px;
-margin:5px;
+margin:15px;
 color: #white;
 text-align: justify;
 }
@@ -72,11 +72,11 @@ text-align: justify;
 }
 
 .form h5{
-font-size: 15px;
+font-size: 17px;
 letter-spacing: 3px;
 text-align: inherit;
 font-style: normal;
-padding-top: 50px;
+padding-top: 70px;
 color: #ffc0f0;
 }
 
