@@ -9,4 +9,7 @@ favicon: ../uploads/thelogo.png
 gridlayout: false
 fixednavbar: true
 upzoom: false
-items: []
+items:
+  - name: /aboutme
+    tab: true
+    siteurl: .
