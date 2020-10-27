@@ -1,0 +1,105 @@
+body{
+padding-top: 10px;
+padding-bottom: 50px;
+background: url(../images/hellothere.png);
+background-size: cover;
+}
+
+.form{
+width: 900px;
+background: rgba(0, 0, 0, 0.3);
+padding: 18px;
+text-align: center;
+margin: auto;
+margin-top: 4%;
+color: white;
+Font-family: Alegreya;
+}
+
+.form h1{
+font-size: 45px;
+letter-spacing: 5px;
+font-weight: 50;
+color: white;
+margin: 20px;
+font-style: italic;
+}
+
+.form h4{
+font-size:25px;
+letter-spacing: 2px;
+font-weight: 90;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #ffc0f0;
+color: black;
+text-align: center;
+}
+
+.form h3 {
+font-size:25px;
+letter-spacing: 1px;
+font-weight: 90;
+padding-top: 0px;
+padding-left: 20px;
+padding-right: 20px;
+margin:5px;
+color: #white;
+text-align: justify;
+}
+
+.form p{
+text-align: justify;
+font-size: 30px;
+letter-spacing: 2px;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: 90;
+background-color: #ffc0f0;
+color: black;
+text-align: center;
+}
+
+.form ol{
+font-size:25px;
+letter-spacing: 1px;
+font-weight: 90;
+padding-top: 10px;
+padding-left: 20px;
+padding-right: 20px;
+color: #white;
+text-align: justify;
+}
+
+.form h5{
+font-size: 15px;
+letter-spacing: 3px;
+text-align: inherit;
+font-style: normal;
+padding-top: 50px;
+color: #ffc0f0;
+}
+
+a {
+text-decoration: none;
+}
+
+.profile_picture {
+margin-top: 40px;
+border-radius: 50%;
+}
+
+.instagram {
+float: center;
+width: 50px;
+}
+
+.github {
+float: center;
+width: 50px;
+}
+
+.facebook {
+float: center;
+width: 50px;
+}
