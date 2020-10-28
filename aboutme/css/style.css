@@ -82,6 +82,7 @@ color: #ffc0f0;
 
 a {
 text-decoration: none;
+color: #ffc0f0;
 }
 
 .profile_picture {
@@ -102,4 +103,28 @@ width: 50px;
 .facebook {
 float: center;
 width: 50px;
+}
+
+.highlight {
+	color: #ffc0f0;
+	font-weight: 500;
+font-style: italic;
+font-size: 30px;
+}
+
+.highlight1 {
+	color: #ffc0f0;
+	font-weight: 500;
+font-style: italic;
+}
+
+.highlight3 {
+text-decoration: underline;
+color: #ffc0f0;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+.highlight5 {
+font-style: italic;
 }
