@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crazy rich colour
-date: 2020-10-25T17:03:08.312Z
+date: 2022-07-15T02:33:09.634Z
 header_feature_image: ""
 caption: Crazy rich Asians (2018), directed by J. M. Chu
 comments: true
