@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I now declare you title and font
-date: 2020-10-02T14:19:51.286Z
+date: 2022-07-15T02:33:34.788Z
 header_feature_image: ""
 caption: Bride Wars (2009), directed by G. Winick
 comments: true
